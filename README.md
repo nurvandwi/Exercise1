@@ -1,2 +1,4 @@
 # latihanblog
-blog data diri
+
+
+blog tentang data diri 
