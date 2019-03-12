@@ -1,0 +1,2 @@
+# latihanblog
+blog data diri
